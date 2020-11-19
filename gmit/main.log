@@ -1,0 +1,450 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.28)  19 NOV 2020 15:02
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(/usr/local/texlive/2020/texmf-dist/tex/latex/IEEEtran/IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen134
+\@IEEEtrantmpdimenB=\dimen135
+\@IEEEtrantmpdimenC=\dimen136
+\@IEEEtrantmpcountA=\count167
+\@IEEEtrantmpcountB=\count168
+\@IEEEtrantmpcountC=\count169
+\@IEEEtrantmptoksA=\toks15
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 5
+03.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen137
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen138
+\CLASSINFOnormalsizeunitybaselineskip=\dimen139
+\IEEEnormaljot=\dimen140
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen141
+\IEEEquantizedlengthdiff=\dimen142
+\IEEEquantizedtextheightdiff=\dimen143
+\IEEEilabelindentA=\dimen144
+\IEEEilabelindentB=\dimen145
+\IEEEilabelindent=\dimen146
+\IEEEelabelindent=\dimen147
+\IEEEdlabelindent=\dimen148
+\IEEElabelindent=\dimen149
+\IEEEiednormlabelsep=\dimen150
+\IEEEiedmathlabelsep=\dimen151
+\IEEEiedtopsep=\skip47
+\c@section=\count170
+\c@subsection=\count171
+\c@subsubsection=\count172
+\c@paragraph=\count173
+\c@IEEEsubequation=\count174
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\c@figure=\count175
+\c@table=\count176
+\@IEEEeqnnumcols=\count177
+\@IEEEeqncolcnt=\count178
+\@IEEEsubeqnnumrollback=\count179
+\@IEEEquantizeheightA=\dimen152
+\@IEEEquantizeheightB=\dimen153
+\@IEEEquantizeheightC=\dimen154
+\@IEEEquantizeprevdepth=\dimen155
+\@IEEEquantizemultiple=\count180
+\@IEEEquantizeboxA=\box45
+\@IEEEtmpitemindent=\dimen156
+\IEEEPARstartletwidth=\dimen157
+\c@IEEEbiography=\count181
+\@IEEEtranrubishbin=\box46
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2019/12/01 v3.14 programmable bibliographies (PK/MW)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count182
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count183
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count184
+\c@listtotal=\count185
+\c@listcount=\count186
+\c@liststart=\count187
+\c@liststop=\count188
+\c@citecount=\count189
+\c@citetotal=\count190
+\c@multicitecount=\count191
+\c@multicitetotal=\count192
+\c@instcount=\count193
+\c@maxnames=\count194
+\c@minnames=\count195
+\c@maxitems=\count196
+\c@minitems=\count197
+\c@citecounter=\count198
+\c@maxcitecounter=\count199
+\c@savedcitecounter=\count266
+\c@uniquelist=\count267
+\c@uniquename=\count268
+\c@refsection=\count269
+\c@refsegment=\count270
+\c@maxextratitle=\count271
+\c@maxextratitleyear=\count272
+\c@maxextraname=\count273
+\c@maxextradate=\count274
+\c@maxextraalpha=\count275
+\c@abbrvpenalty=\count276
+\c@highnamepenalty=\count277
+\c@lownamepenalty=\count278
+\c@maxparens=\count279
+\c@parenlevel=\count280
+\blx@tempcnta=\count281
+\blx@tempcntb=\count282
+\blx@tempcntc=\count283
+\blx@maxsection=\count284
+\blx@maxsegment@0=\count285
+\blx@notetype=\count286
+\blx@parenlevel@text=\count287
+\blx@parenlevel@foot=\count288
+\blx@sectionciteorder@0=\count289
+\blx@entrysetcounter=\count290
+\labelnumberwidth=\skip50
+\labelalphawidth=\skip51
+\biblabelsep=\skip52
+\bibitemsep=\skip53
+\bibnamesep=\skip54
+\bibinitsep=\skip55
+\bibparsep=\skip56
+\bibhang=\skip57
+\blx@bcfin=\read2
+\blx@bcfout=\write3
+\blx@langwohyphens=\language86
+\c@mincomprange=\count291
+\c@maxcomprange=\count292
+\c@mincompwidth=\count293
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2019/12/01 v3.14 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count294
+\c@savedafterword=\count295
+\c@annotator=\count296
+\c@savedannotator=\count297
+\c@author=\count298
+\c@savedauthor=\count299
+\c@bookauthor=\count300
+\c@savedbookauthor=\count301
+\c@commentator=\count302
+\c@savedcommentator=\count303
+\c@editor=\count304
+\c@savededitor=\count305
+\c@editora=\count306
+\c@savededitora=\count307
+\c@editorb=\count308
+\c@savededitorb=\count309
+\c@editorc=\count310
+\c@savededitorc=\count311
+\c@foreword=\count312
+\c@savedforeword=\count313
+\c@holder=\count314
+\c@savedholder=\count315
+\c@introduction=\count316
+\c@savedintroduction=\count317
+\c@namea=\count318
+\c@savednamea=\count319
+\c@nameb=\count320
+\c@savednameb=\count321
+\c@namec=\count322
+\c@savednamec=\count323
+\c@translator=\count324
+\c@savedtranslator=\count325
+\c@shortauthor=\count326
+\c@savedshortauthor=\count327
+\c@shorteditor=\count328
+\c@savedshorteditor=\count329
+\c@labelname=\count330
+\c@savedlabelname=\count331
+\c@institution=\count332
+\c@savedinstitution=\count333
+\c@lista=\count334
+\c@savedlista=\count335
+\c@listb=\count336
+\c@savedlistb=\count337
+\c@listc=\count338
+\c@savedlistc=\count339
+\c@listd=\count340
+\c@savedlistd=\count341
+\c@liste=\count342
+\c@savedliste=\count343
+\c@listf=\count344
+\c@savedlistf=\count345
+\c@location=\count346
+\c@savedlocation=\count347
+\c@organization=\count348
+\c@savedorganization=\count349
+\c@origlocation=\count350
+\c@savedoriglocation=\count351
+\c@origpublisher=\count352
+\c@savedorigpublisher=\count353
+\c@publisher=\count354
+\c@savedpublisher=\count355
+\c@language=\count356
+\c@savedlanguage=\count357
+\c@origlanguage=\count358
+\c@savedoriglanguage=\count359
+\c@pageref=\count360
+\c@savedpageref=\count361
+\shorthandwidth=\skip58
+\shortjournalwidth=\skip59
+\shortserieswidth=\skip60
+\shorttitlewidth=\skip61
+\shortauthorwidth=\skip62
+\shorteditorwidth=\skip63
+\locallabelnumberwidth=\skip64
+\locallabelalphawidth=\skip65
+\localshorthandwidth=\skip66
+\localshortjournalwidth=\skip67
+\localshortserieswidth=\skip68
+\localshorttitlewidth=\skip69
+\localshortauthorwidth=\skip70
+\localshorteditorwidth=\skip71
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+\c@textcitecount=\count362
+\c@textcitetotal=\count363
+\c@textcitemaxnames=\count364
+\c@biburlbigbreakpenalty=\count365
+\c@biburlbreakpenalty=\count366
+\c@biburlnumpenalty=\count367
+\c@biburlucpenalty=\count368
+\c@biburllcpenalty=\count369
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count370
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count371
+\c@bbx:relatedtotal=\count372
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2019/12/01 v3.14 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+))
+\@quotelevel=\count373
+\@quotereset=\count374
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count375
+\l__pdf_internal_box=\box47
+)
+(./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+
+-- Lines per column: 58 (exact).
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' not found.
+
+No file main.bbl.
+Package biblatex Info: Reference section=0 on input line 7.
+Package biblatex Info: Reference segment=0 on input line 7.
+
+LaTeX Warning: Empty bibliography on input line 100.
+
+[1{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+
+]
+(./main.aux)
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 8436 strings out of 480608
+ 161303 string characters out of 5903630
+ 790814 words of memory out of 5000000
+ 24311 multiletter control sequences out of 15000+600000
+ 563919 words of font info for 74 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 35i,5n,33p,826b,743s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2020/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/202
+0/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2020/texmf-d
+ist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/
+type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (1 page, 48796 bytes).
+PDF statistics:
+ 25 PDF objects out of 1000 (max. 8388607)
+ 17 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
