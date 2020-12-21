@@ -1,0 +1,59 @@
+
+											READING FOR MODULE RESEARCH METHODS IN IT
+
+
+
+Resource No. Followed by Article BuzzWords 
+
+---------
+
+[1]Quantum Computing : https://reader.elsevier.com/reader/sd/pii/S0304397501003772?token=1092C172F4E7521D62194EF372E198F616A9DECCDA7A54C7DBF761154B97E7A214F62F3F563E94D9B95E63E78E158A0B
+
+[2] Brief History of Computing : https://www.princeton.edu/~hos/mike/articles/hcht.pdf
+
+[3] Next generation of Computing : https://www.prnewswire.com/news-releases/honeywell-releases-next-generation-of-quantum-computer-301163034.html
+
+[4] Limitations in Computing  : https://arxiv.org/pdf/cs/0602096.pdf
+
+[5] Qubits Reading :  https://arxiv.org/pdf/1908.02656.pdf
+
+[6] Emerging Trends : https://www.researchgate.net/publication/271136772_Emerging_Trends_and_Limitations_in_Technology_and_System_of_Ubiquitous_Computing
+
+[7] IBM  The Promise of Quantum Computing : https://www.ibm.com/blogs/research/2020/09/quantum-industry/
+
+[8] Transmons : https://journals.aps.org/pra/abstract/10.1103/PhysRevA.94.012347
+
+[9] Google Claims :  https://www.nature.com/articles/d41586-019-03213-z
+
+[10] Beyond quantum supremacy: the hunt for useful quantum computers :  https://www.nature.com/articles/d41586-019-02936-3
+
+[11] MIT Paper on the cost of Quantum computing : https://www.technologyreview.com/2020/02/26/916744/quantum-computer-race-ibm-google/#:~:text=The%20first%20working%2012%2Dqubit%20quantum%20computer.&text=D%2DWave%20releases%20the%20first,It%20costs%20%2410m.
+
+[12] Quantum computing technologies : https://publications.iadb.org/publications/english/document/Quantum_Technologies_Digital_Transformation_Social_Impact_and_Crosssector_Disruption.pdf
+ 
+[13] A Study on the basics of Quantum Computing : https://arxiv.org/vc/quant-ph/papers/0511/0511061v1.pdf
+
+[14] QUANTUM COMPUTING  Progress and Prospects : https://www.nap.edu/read/25196/chapter/1
+
+
+[15] Classical Computation Models and Quantum Gates : https://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/lecture-notes/qc_lec04.pdf
+
+
+[16] Cluster states : https://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/lecture-notes/qc_lec14.pdf
+
+
+---------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
