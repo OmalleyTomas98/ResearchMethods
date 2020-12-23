@@ -42,6 +42,11 @@ Resource No. Followed by Article BuzzWords
 [16] Cluster states : https://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/lecture-notes/qc_lec14.pdf
 
 
+[17] The first Digital Computer https://link.springer.com/chapter/10.1007/978-1-4419-8726-6_6
+
+
+[18] https://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=1031&context=peer2peer#:~:text=A%20quantum%20computer%20would%20theoretically,complex%20problems%20(Almudever%20et%20al.&text=Quantum%20computers%20solving%20the%20same,of%20reach%20of%20classical%20computers.
+
 ---------
 
 

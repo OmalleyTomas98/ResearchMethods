@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.28)  21 DEC 2020 22:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.28)  23 DEC 2020 18:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -415,23 +415,24 @@ Package biblatex Info: ... file 'main.bbl' not found.
 No file main.bbl.
 Package biblatex Info: Reference section=0 on input line 7.
 Package biblatex Info: Reference segment=0 on input line 7.
-
-LaTeX Warning: Empty bibliography on input line 100.
-
 [1{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
-
 ]
-(./main.aux)
+
+LaTeX Warning: Empty bibliography on input line 113.
+
+[2
+
+] (./main.aux)
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
  8436 strings out of 480608
- 161303 string characters out of 5903630
- 790814 words of memory out of 5000000
+ 161313 string characters out of 5903630
+ 794814 words of memory out of 5000000
  24311 multiletter control sequences out of 15000+600000
  563919 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -441,10 +442,10 @@ exlive/2020/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/202
 0/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2020/texmf-d
 ist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/
 type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (1 page, 48796 bytes).
+Output written on main.pdf (2 pages, 57993 bytes).
 PDF statistics:
- 25 PDF objects out of 1000 (max. 8388607)
- 17 compressed objects within 1 object stream
+ 28 PDF objects out of 1000 (max. 8388607)
+ 19 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
