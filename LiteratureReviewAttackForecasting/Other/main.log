@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.28)  23 DEC 2020 18:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.28)  15 FEB 2021 00:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -372,6 +372,26 @@ Package biblatex Info: ... file 'biblatex.cfg' found.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 ))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen158
+\Gin@req@width=\dimen159
+)
 \@quotelevel=\count373
 \@quotereset=\count374
 
@@ -383,20 +403,20 @@ File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
 
 -- Lines per column: 58 (exact).
 Package biblatex Info: Trying to load language 'english'...
@@ -413,39 +433,209 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' not found.
 
 No file main.bbl.
-Package biblatex Info: Reference section=0 on input line 7.
-Package biblatex Info: Reference segment=0 on input line 7.
+Package biblatex Info: Reference section=0 on input line 9.
+Package biblatex Info: Reference segment=0 on input line 9.
+(/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count376
+\scratchdimen=\dimen160
+\scratchbox=\box48
+\nofMPsegments=\count377
+\nofMParguments=\count378
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count379
+\MPscratchDim=\dimen161
+\MPnumerator=\count380
+\makeMPintoPDFobject=\count381
+\everyMPtoPDFconversion=\toks20
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+
+LaTeX Warning: Citation 'Arpanet' on page 1 undefined on input line 38.
+
+
+LaTeX Warning: Citation 'consumer' on page 1 undefined on input line 38.
+
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 3
+8.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+
+LaTeX Warning: Citation 'crime' on page 1 undefined on input line 45.
+
+
+LaTeX Warning: Citation 'iotStatistics' on page 1 undefined on input line 45.
+
+
+LaTeX Warning: Citation 'microsoft' on page 1 undefined on input line 45.
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 45--46
+\OT1/ptm/m/n/10 for gate-ways for ma-li-cious at-tacks CNA-Computer Net-
+ []
+
+
+LaTeX Warning: File `LiteratureReviewAttackForecasting/Other/photos/responsetoP
+andemic.png' not found on input line 51.
+
+
+! Package pdftex.def Error: File `LiteratureReviewAttackForecasting/Other/photo
+s/responsetoPandemic.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 ...sting/Other/photos/responsetoPandemic.png}
+                                                  }
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 5
+1.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+
+LaTeX Warning: Citation 'situationalAwareness' on page 1 undefined on input lin
+e 66.
+
+
+LaTeX Warning: Citation 'attackForecasting' on page 1 undefined on input line 8
+2.
+
+
+LaTeX Warning: Citation 'prediction' on page 1 undefined on input line 82.
+
+
+LaTeX Warning: Citation 'hmmn' on page 1 undefined on input line 82.
+
+
+LaTeX Warning: Citation 'modelDefinition' on page 1 undefined on input line 82.
+
+
 [1{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
 
-LaTeX Warning: Empty bibliography on input line 113.
+LaTeX Warning: File `LiteratureReviewAttackForecasting/Other/photos/hiddenmark.
+png' not found on input line 87.
 
-[2
 
-] (./main.aux)
+! Package pdftex.def Error: File `LiteratureReviewAttackForecasting/Other/photo
+s/hiddenmark.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.87 ...ckForecasting/Other/photos/hiddenmark.png}
+                                                  }
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 97.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 97.
+! Misplaced alignment tab character &.
+l.107 ...a.Documentation from CSI Computer Crime &
+                                                   Security Survey \cite{csi...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+LaTeX Warning: Citation 'csiSurvey' on page 2 undefined on input line 107.
+
+
+LaTeX Warning: Citation 'nortonVirus' on page 2 undefined on input line 111.
+
+
+LaTeX Warning: Citation 'nortonSecurity' on page 2 undefined on input line 114.
+
+
+
+LaTeX Warning: Citation 'blockchainSurvey' on page 2 undefined on input line 12
+9.
+
+
+Underfull \hbox (badness 2213) in paragraph at lines 129--131
+\OT1/ptm/m/n/10 un-trusted par-tic-i-pants in the net-work. In-cor-po-rat-ing t
+he
+ []
+
+
+LaTeX Warning: Citation 'surverydata' on page 2 undefined on input line 142.
+
+[2]
+
+! Package inputenc Error: Unicode character λ (U+03BB)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.149 ... network and set the penalty parameter λ
+                                                   =.001 because other param...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+LaTeX Warning: Citation 'trainModel' on page 3 undefined on input line 149.
+
+
+LaTeX Warning: Citation 'security' on page 3 undefined on input line 162.
+
+
+LaTeX Warning: Empty bibliography on input line 198.
+
+[3] (./main.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 8436 strings out of 480608
- 161313 string characters out of 5903630
- 794814 words of memory out of 5000000
- 24311 multiletter control sequences out of 15000+600000
- 563919 words of font info for 74 fonts, out of 8000000 for 9000
+ 9486 strings out of 480608
+ 178536 string characters out of 5903630
+ 803417 words of memory out of 5000000
+ 25304 multiletter control sequences out of 15000+600000
+ 565855 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,5n,33p,826b,743s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 35i,5n,39p,1182b,1387s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2020/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/202
-0/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2020/texmf-d
-ist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/
-type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (2 pages, 57993 bytes).
+exlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/tex
+live/2020/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/202
+0/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2020/texmf-di
+st/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/
+type1/urw/times/utmr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/
+times/utmri8a.pfb>
+Output written on main.pdf (3 pages, 86365 bytes).
 PDF statistics:
- 28 PDF objects out of 1000 (max. 8388607)
- 19 compressed objects within 1 object stream
+ 39 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

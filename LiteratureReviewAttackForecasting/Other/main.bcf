@@ -2182,6 +2182,23 @@
     <bcf:datasource type="file" datatype="bibtex">bibliography.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
+    <bcf:citekey order="1">Arpanet</bcf:citekey>
+    <bcf:citekey order="2">consumer</bcf:citekey>
+    <bcf:citekey order="3">crime</bcf:citekey>
+    <bcf:citekey order="4">iotStatistics</bcf:citekey>
+    <bcf:citekey order="5">microsoft</bcf:citekey>
+    <bcf:citekey order="6">situationalAwareness</bcf:citekey>
+    <bcf:citekey order="7">attackForecasting</bcf:citekey>
+    <bcf:citekey order="8">prediction</bcf:citekey>
+    <bcf:citekey order="9">hmmn</bcf:citekey>
+    <bcf:citekey order="10">modelDefinition</bcf:citekey>
+    <bcf:citekey order="11">csiSurvey</bcf:citekey>
+    <bcf:citekey order="12">nortonVirus</bcf:citekey>
+    <bcf:citekey order="13">nortonSecurity</bcf:citekey>
+    <bcf:citekey order="14">blockchainSurvey</bcf:citekey>
+    <bcf:citekey order="15">surverydata</bcf:citekey>
+    <bcf:citekey order="16">trainModel</bcf:citekey>
+    <bcf:citekey order="17">security</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
