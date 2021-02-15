@@ -13,13 +13,13 @@ Overview of the Module  , Course and Student
 | `Course` | Software Development GA_KSOAG_H08 Y4  |
 | `Module` | Research Methods in IT  |
 | `Lecturer` | Dr Dominic Carr  |
-| `Program` | Literature Review   |
+| `Program` | Literature Review : Cybersecurity : Analysis of Attack forecasting   |
 | `Langauge(s)` | Tex  |
 | `Weighting` | 70% |
 | `Year of Study` | 4 |
 
 ## Project Context  
-My Literature review on the topic Quantum Technology
+My Literature review on the topic Cybersecurity : Analysis of Attack forecasting
 
 
 ## Developmemt  Enviroment
